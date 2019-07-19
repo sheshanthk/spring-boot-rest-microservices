@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+D:\eclipse-workspace 2019-03\microservices-learning\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4169679420.index
+1851088978.index
+3611316882.index
+1871985630.index
+1755591827.index
+2432318316.index
+2245756483.index
+1477143674.index
+19706685.index
+887656884.index
+832104442.index
